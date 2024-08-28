@@ -1,0 +1,4 @@
+pages\InitPage.class
+pages\ItemPage.class
+hooks\TestBase.class
+tests\PriceTest.class
