@@ -19,7 +19,7 @@ public class PriceTest extends TestBase{
 
     @ParameterizedTest
     @CsvSource(value = {
-        "Phones|Samsung galaxy s6| $360 *includes tax",
+        "Phones|Samsung galaxy s6| $360 *includes tox",
         "Phones|Nokia lumia 1520| $820 *includes tax",
         "Laptops|Sony vaio i5| $790 *includes tax",
         "Laptops|MacBook air| $700 *includes tax",

@@ -6,9 +6,6 @@ import org.openqa.selenium.WebElement;
 
 public class InitPage {
     
-    public InitPage() {
-        //TODO Auto-generated constructor stub
-    }
 
     public void clickItems(WebDriver driver,String items) {
        

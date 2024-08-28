@@ -7,7 +7,6 @@ import org.openqa.selenium.WebElement;
 public class ItemPage {
     
     WebDriver driver;
-    //Elementos de la pagina
 
     private By txtPrice= By.xpath("/html/body/div[5]/div/div[2]/h3");
     
